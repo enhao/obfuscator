@@ -1,0 +1,4 @@
+[submodule "obfuscator-llvm/obfuscator"]
+	path = obfuscator-llvm/obfuscator
+	url = https://github.com/enhao/obfuscator-llvm.git
+	branch = llvm-4.0
