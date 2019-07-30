@@ -8,3 +8,6 @@
 [submodule "HikariObfuscator/Core"]
 	path = HikariObfuscator/Core
 	url = https://github.com/enhao/Core.git
+[submodule "HikariObfuscator/Headers"]
+	path = HikariObfuscator/Headers
+	url = https://github.com/enhao/Headers.git
