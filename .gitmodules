@@ -11,3 +11,7 @@
 [submodule "HikariObfuscator/Headers"]
 	path = HikariObfuscator/Headers
 	url = https://github.com/enhao/Headers.git
+[submodule "HikariObfuscator/Hikari"]
+	path = HikariObfuscator/Hikari
+	url = https://github.com/enhao/Hikari.git
+	branch = release_80
