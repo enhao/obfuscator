@@ -23,7 +23,7 @@
 #include "llvm/Transforms/IPO.h"
 #include "llvm/IR/Module.h"
 #include "llvm/Support/CommandLine.h"
-#include "llvm/CryptoUtils.h"
+#include "CryptoUtils.h"
 
 // Namespace
 using namespace llvm;
