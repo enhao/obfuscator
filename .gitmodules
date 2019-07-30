@@ -18,3 +18,6 @@
 [submodule "HikariObfuscator/Hikari.wiki"]
 	path = HikariObfuscator/Hikari.wiki
 	url = https://github.com/HikariObfuscator/Hikari.wiki.git
+[submodule "obfuscator-llvm/obfuscator.wiki"]
+	path = obfuscator-llvm/obfuscator.wiki
+	url = https://github.com/obfuscator-llvm/obfuscator.wiki.git
