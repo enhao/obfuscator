@@ -15,3 +15,6 @@
 	path = HikariObfuscator/Hikari
 	url = https://github.com/enhao/Hikari.git
 	branch = release_80
+[submodule "HikariObfuscator/Hikari.wiki"]
+	path = HikariObfuscator/Hikari.wiki
+	url = https://github.com/HikariObfuscator/Hikari.wiki.git
