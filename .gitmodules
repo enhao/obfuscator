@@ -2,3 +2,6 @@
 	path = obfuscator-llvm/obfuscator
 	url = https://github.com/enhao/obfuscator-llvm.git
 	branch = llvm-4.0
+[submodule "llvm-pass-tutorial"]
+	path = llvm-pass-tutorial
+	url = https://github.com/enhao/llvm-pass-tutorial.git
