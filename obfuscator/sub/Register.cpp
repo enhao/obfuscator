@@ -4,9 +4,13 @@
 
 using namespace llvm;
 
+static cl::opt<bool>
+Substitution("sub", cl::init(false), cl::Hidden,
+             cl::ZeroOrMore, cl::desc("operators substitution"));
+
 static void registerSubstitutionPass(const PassManagerBuilder &,
                                      legacy::PassManagerBase &PM) {
-    PM.add(createSubstitution(true));
+    PM.add(createSubstitution(Substitution));
 }
 
 static RegisterStandardPasses
