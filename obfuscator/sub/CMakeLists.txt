@@ -1,4 +1,5 @@
 add_library(SubPass MODULE
+    Register.cpp
     Substitution.cpp
     CryptoUtils.cpp
     Utils.cpp
