@@ -1,4 +1,5 @@
 add_library(BcfPass MODULE
+    Register.cpp
     BogusControlFlow.cpp
     CryptoUtils.cpp
     Utils.cpp
