@@ -24,8 +24,8 @@
 #include "llvm/Transforms/Scalar.h"
 #include "llvm/IR/Module.h"
 #include "llvm/Support/CommandLine.h"
-#include "llvm/Transforms/Obfuscation/Utils.h"
-#include "llvm/CryptoUtils.h"
+#include "Utils.h"
+#include "CryptoUtils.h"
 
 // Namespace
 namespace llvm {

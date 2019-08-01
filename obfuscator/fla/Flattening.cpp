@@ -11,9 +11,9 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "llvm/Transforms/Obfuscation/Flattening.h"
+#include "Flattening.h"
 #include "llvm/Transforms/Scalar.h"
-#include "llvm/CryptoUtils.h"
+#include "CryptoUtils.h"
 
 #define DEBUG_TYPE "flattening"
 
