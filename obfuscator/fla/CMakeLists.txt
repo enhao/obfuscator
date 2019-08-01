@@ -1,4 +1,5 @@
 add_library(FlaPass MODULE
+    Register.cpp
     Flattening.cpp
     SplitBasicBlocks.cpp
     CryptoUtils.cpp
