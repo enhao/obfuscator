@@ -1,4 +1,5 @@
 add_library(Sub2Pass MODULE
+    Register.cpp
     Obfuscation.cpp
     Substitution.cpp
     CryptoUtils.cpp
