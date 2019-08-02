@@ -1,6 +1,6 @@
 // For open-source license, please refer to [License](https://github.com/HikariObfuscator/Hikari/wiki/License).
 //===----------------------------------------------------------------------===//
-#include "llvm/Transforms/Obfuscation/CryptoUtils.h"
+#include "CryptoUtils.h"
 #include "llvm/ADT/Statistic.h"
 #include "llvm/ADT/Twine.h"
 #include "llvm/IR/LLVMContext.h"

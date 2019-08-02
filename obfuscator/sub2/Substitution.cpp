@@ -1,10 +1,10 @@
 // For open-source license, please refer to [License](https://github.com/HikariObfuscator/Hikari/wiki/License).
 //===----------------------------------------------------------------------===//
-#include "llvm/Transforms/Obfuscation/Substitution.h"
+#include "Substitution.h"
 #include "llvm/IR/Intrinsics.h"
 #include "llvm/IR/LLVMContext.h"
 #include "llvm/Support/raw_ostream.h"
-#include "llvm/Transforms/Obfuscation/Utils.h"
+#include "Utils.h"
 
 #define DEBUG_TYPE "substitution"
 
